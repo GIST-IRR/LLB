@@ -1,4 +1,4 @@
-# Label-focused Latent-object Biasing (LLB) Implementation
+# [ICLR 2024]Label-focused Latent-object Biasing (LLB) Implementation
  
 This repository contains implementation of the paper [Label-Focused Inductive Bias over Latent Object Features in Visual Classification](https://openreview.net/forum?id=cH3oufN8Pl&referrer=%5Bthe%20profile%20of%20Ilmin%20Kang%5D(%2Fprofile%3Fid%3D~Ilmin_Kang1)) published on  ICLR 2024
 
